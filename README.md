@@ -1,5 +1,4 @@
-# object_classification
-
+# Object-Classification-in-various-variant-Flutter-MLkit
 ## Features
 
 1. Text Recognization
